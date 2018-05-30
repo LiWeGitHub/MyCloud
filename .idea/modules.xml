@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyClient/MyClient.iml" filepath="$PROJECT_DIR$/MyClient/MyClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyCloud.iml" filepath="$PROJECT_DIR$/MyCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyEurake/MyEurake.iml" filepath="$PROJECT_DIR$/MyEurake/MyEurake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyRibbon/MyRibbon.iml" filepath="$PROJECT_DIR$/MyRibbon/MyRibbon.iml" />
+    </modules>
+  </component>
+</project>
