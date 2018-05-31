@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyClient/MyClient.iml" filepath="$PROJECT_DIR$/MyClient/MyClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyCloud.iml" filepath="$PROJECT_DIR$/MyCloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyEurake/MyEurake.iml" filepath="$PROJECT_DIR$/MyEurake/MyEurake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFegion/MyFegion.iml" filepath="$PROJECT_DIR$/MyFegion/MyFegion.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyRibbon/MyRibbon.iml" filepath="$PROJECT_DIR$/MyRibbon/MyRibbon.iml" />
     </modules>
   </component>

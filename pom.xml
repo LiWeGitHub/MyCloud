@@ -12,6 +12,7 @@
         <module>MyEurake</module>
         <module>MyClient</module>
         <module>MyRibbon</module>
+        <module>MyFegion</module>
     </modules>
 
 </project>
