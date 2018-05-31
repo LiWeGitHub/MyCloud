@@ -13,6 +13,7 @@
         <module>MyClient</module>
         <module>MyRibbon</module>
         <module>MyFegion</module>
+        <module>MyZuul</module>
     </modules>
 
 </project>
